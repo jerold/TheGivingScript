@@ -1,0 +1,343 @@
+{
+    "users": [
+        {
+            "previous_browsers": [],
+            "name": "R.L.",
+            "loses": 0,
+            "score": 4.5,
+            "previous_browser_counts": [
+                {
+                    "count": 0,
+                    "name": "IE11"
+                },
+                {
+                    "count": 0,
+                    "name": "IE9"
+                },
+                {
+                    "count": 0,
+                    "name": "IE10"
+                },
+                {
+                    "count": 0,
+                    "name": "Mobile Chrome"
+                },
+                {
+                    "count": 1,
+                    "name": "Mobile Safari"
+                },
+                {
+                    "count": 0,
+                    "name": "Safari"
+                },
+                {
+                    "count": 0,
+                    "name": "Firefox"
+                },
+                {
+                    "count": 0,
+                    "name": "Chrome"
+                }
+            ],
+            "bails": 0,
+            "last_score": 0.0
+        },
+        {
+            "previous_browsers": [],
+            "name": "C.N.",
+            "loses": 2,
+            "score": 81.00000000000001,
+            "previous_browser_counts": [
+                {
+                    "count": 3,
+                    "name": "IE11"
+                },
+                {
+                    "count": 2,
+                    "name": "IE9"
+                },
+                {
+                    "count": 2,
+                    "name": "IE10"
+                },
+                {
+                    "count": 0,
+                    "name": "Mobile Chrome"
+                },
+                {
+                    "count": 2,
+                    "name": "Mobile Safari"
+                },
+                {
+                    "count": 1,
+                    "name": "Safari"
+                },
+                {
+                    "count": 3,
+                    "name": "Firefox"
+                },
+                {
+                    "count": 5,
+                    "name": "Chrome"
+                }
+            ],
+            "bails": 0,
+            "last_score": 0.0
+        },
+        {
+            "previous_browsers": [
+                {
+                    "just_awful": false,
+                    "score": 5.4,
+                    "name": "Mobile Chrome"
+                }
+            ],
+            "name": "J.A.",
+            "loses": 2,
+            "score": 85.50000000000001,
+            "previous_browser_counts": [
+                {
+                    "count": 1,
+                    "name": "IE11"
+                },
+                {
+                    "count": 3,
+                    "name": "IE9"
+                },
+                {
+                    "count": 2,
+                    "name": "IE10"
+                },
+                {
+                    "count": 3,
+                    "name": "Mobile Chrome"
+                },
+                {
+                    "count": 1,
+                    "name": "Mobile Safari"
+                },
+                {
+                    "count": 4,
+                    "name": "Safari"
+                },
+                {
+                    "count": 3,
+                    "name": "Firefox"
+                },
+                {
+                    "count": 0,
+                    "name": "Chrome"
+                }
+            ],
+            "bails": 0,
+            "last_score": 0.0
+        },
+        {
+            "previous_browsers": [
+                {
+                    "just_awful": true,
+                    "score": 6.3,
+                    "name": "IE10"
+                }
+            ],
+            "name": "J.S.",
+            "loses": 2,
+            "score": 89.1,
+            "previous_browser_counts": [
+                {
+                    "count": 0,
+                    "name": "IE11"
+                },
+                {
+                    "count": 2,
+                    "name": "IE9"
+                },
+                {
+                    "count": 4,
+                    "name": "IE10"
+                },
+                {
+                    "count": 3,
+                    "name": "Mobile Chrome"
+                },
+                {
+                    "count": 4,
+                    "name": "Mobile Safari"
+                },
+                {
+                    "count": 2,
+                    "name": "Safari"
+                },
+                {
+                    "count": 1,
+                    "name": "Firefox"
+                },
+                {
+                    "count": 3,
+                    "name": "Chrome"
+                }
+            ],
+            "bails": 0,
+            "last_score": 0.0
+        },
+        {
+            "previous_browsers": [
+                {
+                    "just_awful": false,
+                    "score": 1.8,
+                    "name": "Chrome"
+                },
+                {
+                    "just_awful": false,
+                    "score": 3.6,
+                    "name": "Safari"
+                }
+            ],
+            "name": "L.H.",
+            "loses": 2,
+            "score": 89.8,
+            "previous_browser_counts": [
+                {
+                    "count": 3,
+                    "name": "IE11"
+                },
+                {
+                    "count": 2,
+                    "name": "IE9"
+                },
+                {
+                    "count": 0,
+                    "name": "IE10"
+                },
+                {
+                    "count": 3,
+                    "name": "Mobile Chrome"
+                },
+                {
+                    "count": 2,
+                    "name": "Mobile Safari"
+                },
+                {
+                    "count": 3,
+                    "name": "Safari"
+                },
+                {
+                    "count": 2,
+                    "name": "Firefox"
+                },
+                {
+                    "count": 6,
+                    "name": "Chrome"
+                }
+            ],
+            "bails": 0,
+            "last_score": 0.0
+        },
+        {
+            "previous_browsers": [
+                {
+                    "just_awful": true,
+                    "score": 8.1,
+                    "name": "IE11"
+                },
+                {
+                    "just_awful": false,
+                    "score": 2.7,
+                    "name": "Firefox"
+                }
+            ],
+            "name": "J.M.",
+            "loses": 0,
+            "score": 94.5,
+            "previous_browser_counts": [
+                {
+                    "count": 5,
+                    "name": "IE11"
+                },
+                {
+                    "count": 0,
+                    "name": "IE9"
+                },
+                {
+                    "count": 3,
+                    "name": "IE10"
+                },
+                {
+                    "count": 4,
+                    "name": "Mobile Chrome"
+                },
+                {
+                    "count": 1,
+                    "name": "Mobile Safari"
+                },
+                {
+                    "count": 1,
+                    "name": "Safari"
+                },
+                {
+                    "count": 2,
+                    "name": "Firefox"
+                },
+                {
+                    "count": 0,
+                    "name": "Chrome"
+                }
+            ],
+            "bails": 0,
+            "last_score": 0.0
+        },
+        {
+            "previous_browsers": [
+                {
+                    "just_awful": true,
+                    "score": 7.2,
+                    "name": "IE9"
+                },
+                {
+                    "just_awful": false,
+                    "score": 4.5,
+                    "name": "Mobile Safari"
+                }
+            ],
+            "name": "C.B.",
+            "loses": 5,
+            "score": 109.8,
+            "previous_browser_counts": [
+                {
+                    "count": 2,
+                    "name": "IE11"
+                },
+                {
+                    "count": 6,
+                    "name": "IE9"
+                },
+                {
+                    "count": 3,
+                    "name": "IE10"
+                },
+                {
+                    "count": 1,
+                    "name": "Mobile Chrome"
+                },
+                {
+                    "count": 3,
+                    "name": "Mobile Safari"
+                },
+                {
+                    "count": 2,
+                    "name": "Safari"
+                },
+                {
+                    "count": 2,
+                    "name": "Firefox"
+                },
+                {
+                    "count": 0,
+                    "name": "Chrome"
+                }
+            ],
+            "bails": 0,
+            "last_score": 0.0
+        }
+    ]
+}

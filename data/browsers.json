@@ -1,0 +1,44 @@
+{
+    "browsers": [
+        {
+            "just_awful": true, 
+            "score": 8.1, 
+            "name": "IE11"
+        }, 
+        {
+            "just_awful": true, 
+            "score": 7.2, 
+            "name": "IE9"
+        }, 
+        {
+            "just_awful": true, 
+            "score": 6.3, 
+            "name": "IE10"
+        }, 
+        {
+            "just_awful": false, 
+            "score": 5.4, 
+            "name": "Mobile Chrome"
+        }, 
+        {
+            "just_awful": false, 
+            "score": 4.5, 
+            "name": "Mobile Safari"
+        }, 
+        {
+            "just_awful": false, 
+            "score": 3.6, 
+            "name": "Safari"
+        }, 
+        {
+            "just_awful": false, 
+            "score": 2.7, 
+            "name": "Firefox"
+        }, 
+        {
+            "just_awful": false, 
+            "score": 1.8, 
+            "name": "Chrome"
+        }
+    ]
+}
