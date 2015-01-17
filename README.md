@@ -4,10 +4,10 @@ Script splits a number of tasks (ranked by suckiness) between a number of indivi
 Usage
 -----
 TheGiver.py ['swap', {username}, 'losers']
- ~no params:  kicks of a distribution of tasks
- 'swap':      trades a task from one user to another. Updates points as one would expect
- {user}:      shows record for the selected user
- 'losers':    shows how many rounds each user has lost.
+* no params: kicks of a distribution of tasks
+* 'swap':    trades a task from one user to another. Updates points as one would expect
+* {user}:    shows record for the selected user
+* 'losers':  shows how many rounds each user has lost.
  
 How it Works
 -----
